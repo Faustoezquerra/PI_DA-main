@@ -1,14 +1,16 @@
-name,unit,value,type
-Bitcoin,BTC,"1,00",crypto
-Ether,ETH,"15,65",crypto
-Litecoin,LTC,"390,43",crypto
-Bitcoin Cash,BCH,"141,10",crypto
-Binance Coin,BNB,"124,02",crypto
-EOS,EOS,"44.901,79",crypto
-XRP,XRP,"50.130,62",crypto
-Lumens,XLM,"210.219,86",crypto
-Chainlink,LINK,"4.232,59",crypto
-Polkadot,DOT,"5.871,75",crypto
-Yearn.finance,YFI,"4,64",crypto
-
-
+name,unit,value
+Satoshi,sats,"100.000.000,00"
+Argentine Peso,$,"9.098.749,07"
+Bits,μBTC,"1.000.000,00"
+Lumens,XLM,"212.066,88"
+XRP,XRP,"50.453,14"
+EOS,EOS,"44.567,23"
+US Dollar,$,"25.999,00"
+Polkadot,DOT,"5.885,62"
+Chainlink,LINK,"4.290,46"
+Litecoin,LTC,"403,16"
+Bitcoin Cash,BCH,"136,02"
+Binance Coin,BNB,"119,69"
+Ether,ETH,"15,80"
+Yearn.finance,YFI,"4,64"
+Bitcoin,BTC,"1,00"
