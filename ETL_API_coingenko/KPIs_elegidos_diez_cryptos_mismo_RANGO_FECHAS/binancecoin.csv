@@ -1,4 +1,4 @@
-Fecha,Precio,MarketCap,Volumen24h,Volatilidad30Dias
+Fecha,Precio,Capitalizacion_de_Mercado,Volumen_24h,Volatilidad_a_30_dias
 2020-08-20,22.308,3302382351.278,240981711.802,0.0
 2020-08-21,23.073,3414255884.600,253331918.212,0.0
 2020-08-22,22.095,3260640031.860,262582143.534,0.0
