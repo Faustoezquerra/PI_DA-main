@@ -196,8 +196,21 @@ Investigación exhaustiva requerida antes de invertir, ya que muchas pueden ser 
 
 ---
 
-
-
 Estos KPIs, junto con otros datos, se visualizan en el dashboard de Power BI, proporcionando una vista integral del mercado y ayudando a tomar decisiones informadas sobre inversiones en criptomonedas.
+
+DASHBOARD:
+
+El dashboard es dinámico, tiene una página principal donde se visualiza titulo del dashboard, objetivo del dashboard, a quienes va dirijido, y por quien fue hecho, Colores fondo blanco, logo azul, (representa confianza, seguridad, responsabilidad, y tranquilidad para empezar) y letras negras(que representan seriedad, elegancia, y fortaleza) de nuestra empresa que ofrece a los inversores el dashboard, boton para ingresar a la visualizacion de los datos en el dashboard.
+
+En la siguiente página se pueden observar siguiendo el patrón Z, primero arriba ya la izquierda(Énfasis Primario) la segmentacion de datos por fecha, luego a la derecha filtro de segmentacion de datos por criptomoneda(seguimiento fuerte), ahora debajo y a la izquierda se ven los 3 KPIs como medidores indicando si es satisfactoria la medicion del KPI, por debajo de cada KPI se encuentra la tarjeta indicando el numero que representa el valor del KPI segun la criptomoneda seleccionada y la fecha seleccionada.
+
+Hacia la derecha del medidor de cada KPI, se encuentra el grafico de lineas que muestra los datos que representa el KPI de la izquierda a traves del tiempo, siempre como fecha seleccionada la fecha inicial del gráfico y la fecha ultima o actual la ultima fecha del grafico.
+
+Entonces luego de los medidores, tarjetas y gráficos por debajo de todo hacia la izquierda(seguimiento Débiil) y derecha estan los botones de navegación hacia la página principal, y un boton a una siguiente página a la derecha abajo (Área Terminal) donde todo es casi igual a esta página todo menos, el hecho de que en esta pagina se ven 4 graficos mostrando los tres KPIs  y en esta página sumamos el grafico del precio de la criptomoneda como métrica adicional pero no tan relevante como la página anterior donde solo vemos 6 objetos visuales con 3 KPIS y 3 Gráficos, contundentes tratando de seguir la regla de los 6 elementos visuales, para mantener a los clientes con el foco de atención hacia lo importante.
+
+cada gráfico tiene sus ejes con sus titulos correspondientes, las líneas de diferentes colores para clasificar cada criptomoneda, los medidores tienen 3 divisiones de los datos, verde para cuando el dato aprueba la inversion a esa criptomoneda, amarillo si hay un valor medio, y rojo, para valores que no promueven la inversion, en la mayoria del área de los KPIs se vera en verde para no generar alteración o alguna señal de peligro sino mas bien de confianza en KPI elegido.
+
+El dashboard esta ingestado por los archivos csv producidos luego de hacer los ETLs, y los EDAs correspondientes,
+asi subiendo ya limpios, completos, y analizados los datos extraidos de las APIs de coingecko y binance.
 
 Espero que este README sirva como una guía clara y concisa para entender las criptomonedas seleccionadas y los KPIs utilizados en el análisis.
